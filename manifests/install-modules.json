@@ -360,6 +360,7 @@
         "skills/repo-scan",
         "skills/rules-distill",
         "skills/santa-method",
+        "skills/solution-arena",
         "skills/git-workflow"
       ],
       "targets": [
